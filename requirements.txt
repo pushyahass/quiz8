@@ -1,0 +1,4 @@
+scipy
+numpy
+Flask==1.0.2
+pandas
